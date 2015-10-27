@@ -24,7 +24,7 @@ makeBeep(1);
 
 ```sh
 $ npm install --global make-beep
-$ makeBeep --num 10
+$ makeBeep --count 10
 ```
 
 ## Run Test
