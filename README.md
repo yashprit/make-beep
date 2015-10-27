@@ -12,11 +12,15 @@ $ npm install --save make-beep
 
 ## Usage
 
+### JavaScript
+
 ```js
 var makeBeep = require('make-beep');
 
 makeBeep(1);
 ```
+
+### Command Line
 
 ```sh
 $ npm install --global make-beep
