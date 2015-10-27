@@ -15,7 +15,7 @@ $ npm install --save make-beep
 ```js
 var makeBeep = require('make-beep');
 
-make-beep(1);
+makeBeep(1);
 ```
 
 ```sh
