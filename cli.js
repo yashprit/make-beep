@@ -4,7 +4,7 @@
 var args = require('minimist')(process.argv.slice(2))
 var makeBeep = require('./');
 
-var number = args.num;
+var number = args.count;
 
 
 makeBeep(number);
