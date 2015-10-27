@@ -1,6 +1,6 @@
 {
   "name": "make-beep",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Make beep on error, based on native OS",
   "homepage": "yashprit.github.com",
   "bugs": {
