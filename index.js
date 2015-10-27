@@ -89,7 +89,7 @@ var makeBeep = function(input) {
       beepTime(input);
       break;
     default:
-      throw new Error("Not implememented Yet");
+      beepTime(1);
   }
 }
 
